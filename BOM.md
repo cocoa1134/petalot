@@ -10,20 +10,27 @@
 | 1      | 48cm M6 Rod
 |        | ----------- **Electronics** -------------- |  |
 | 1      | Power Supply 12v 5A                                                                           | https://s.click.aliexpress.com/e/_Dd9tuCD  |
+_Alternative_| Switching Power Supply Light Strip Transformer AC110V 220V To DC12V Power Supply          | https://www.aliexpress.us/item/3256808459188246.html |
 | 1      | Wemos D1 MINI V4.0                                                                            | https://s.click.aliexpress.com/e/_DCS2eTP  |
 | 1      | Mini DC-DC 12-24V To 5V 3A Step Down                                                          | https://s.click.aliexpress.com/e/_DDFlE5x  |
 | 1      | Mini Micro Limit Switch Roller Lever Arm  (MS-1A-14.5-P)                                      | https://s.click.aliexpress.com/e/_DdoNg8z  |
+_Alternative_| 10PCS Micro Limit Switch 1A125VAC MS Roller Lever Arm SPDT 12X6X6MM                       | https://www.aliexpress.us/item/3256805410237576.html |
 | 1      | A4988 DRV8825 Stepper Motor Driver With Heat sink                                             | https://s.click.aliexpress.com/e/_DFlq3ud  |
 | 1      | Nema 17 stepper motor 42 motor height 38mm 1.2A D shaped shaft                                | https://s.click.aliexpress.com/e/_DFHxH3L  |
+_Alternative_| Nema 17 stepper motor 42 motor height 38mm for 3D Printer Printing 1.2A D shaped shaft    | https://www.aliexpress.us/item/2255800844407566.html |
 | 1      | IRLZ44N MOSFET                                                                                | https://s.click.aliexpress.com/e/_DdfBlgH  |
 | 1      | Hotend MK8 12V 40W                                                                            | https://s.click.aliexpress.com/e/_DnlMNy5  |
+_Alternative_| Heater Block MK7 MK82 IN 1 OUT Aluminum/Brass For 3D Printer Extruder Hotend J Head       | https://www.aliexpress.us/item/3256804295212997.html |
+_Alternative_| 3d printer parts Ender3 100K Thermistor12V/24V Cartridge Heater                           | https://www.aliexpress.us/item/3256803212880782.html |
 | 1      | capacitor 16V 100uf                                                                           | https://s.click.aliexpress.com/e/_DBG3FJL  |
 | 1      | pin header Male and Female                                                                    | https://s.click.aliexpress.com/e/_DcGRnY9  |
 | 3      | Terminal Block Connector 2P                                                                   | https://s.click.aliexpress.com/e/_DkqRgFn  |
+_Alternative_| 60pcs 5mm Pitch PCB Mount Screw Terminal Block Connector (50 x 2 Pin, 10 x 3 Pin)         | https://www.aliexpress.us/item/3256808412049296.html |
 | 2      | 10K ohms resistors                                                                            | https://s.click.aliexpress.com/e/_DeT9AAz  |
 | 30cm   | 2 wire cable for limit switch, digital signal                                                 | https://s.click.aliexpress.com/e/_Dlnn1bd  |
-| 25cm   | 2 wire cable for 5A+ (I use the leftover cable from the hotend heater.)                       | https://s.click.aliexpress.com/e/_Dlnn1bd |
+| 25cm   | 2 wire cable for 5A+ (I use the leftover cable from the hotend heater.)                       | https://s.click.aliexpress.com/e/_Dlnn1bd  |
 | 1      | 10A 250V Inlet Module Plug Rocker Switch Male Power Socket 3 Pin IEC320 C14 switch + Fuse New | https://s.click.aliexpress.com/e/_DmuNpxf  |
+_Alternative_| 10A/15A 250V Rocker Switch Power Socket Inlet Module - On/Off with 18 AWG Wiring 3 Pin    | https://www.aliexpress.us/item/3256806491783029.html |
 |        | ----------- **Hardware** ---------------- |  |
 | 18     | Screw M2 x 16mm (100pcs) (union between large gears and pulley)                               | https://s.click.aliexpress.com/e/_Dcg0sln  |
 | 1      | MK8 Brass Nozzle 0.4MM                                                                        | https://s.click.aliexpress.com/e/_ANswWD   |
